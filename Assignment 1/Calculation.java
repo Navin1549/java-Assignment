@@ -1,4 +1,4 @@
-//contructor and method question.
+//Question_2 Solution
 
 class Calculation {
     int a,b,c;

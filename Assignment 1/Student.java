@@ -1,4 +1,4 @@
-// class ,object and methods question.
+// Question_1 Solution
 import java.util.Scanner;
 
 class Student{
