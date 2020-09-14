@@ -1,4 +1,3 @@
-//import java.util.*;
 import java.util.Scanner;
 class qudraticEq{
     static public void equal(int a,int b)
