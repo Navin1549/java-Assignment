@@ -1,4 +1,4 @@
-package oops;
+
 class parent1
 {
     void father()
