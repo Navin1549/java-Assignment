@@ -1,4 +1,4 @@
-package oops;
+
 import java.util.Scanner;
 
 class Student

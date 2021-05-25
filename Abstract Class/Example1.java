@@ -7,8 +7,8 @@ abstract class KFC{
      {
          System.out.println("Make item");
      }
-     abstract void billing();
-     abstract void offer();
+    abstract void billing();
+    abstract void offer();
 }
 
 class Mykfc extends KFC

@@ -1,4 +1,4 @@
-package oops;
+
 public class methodoverriding {
     public static void main(String[] args) {
         St2 ob=new St2();
