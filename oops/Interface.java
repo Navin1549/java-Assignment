@@ -1,13 +1,13 @@
-interface parent1
+interface par
 {
     void father();
 }
-interface parent2 
+interface par2 
 {
     void mother();
 }
 
-class pawan implements parent1,parent2
+class pawan implements par,par2
 {
     public void father()
     {
